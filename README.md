@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0946-validate-stack-sequences](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0946-validate-stack-sequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |
@@ -149,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 <!---LeetCode Topics End-->
