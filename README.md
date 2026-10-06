@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0622-design-circular-queue) |
+| [0946-validate-stack-sequences](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0946-validate-stack-sequences) |
 ## Linked List
 |  |
 | ------- |
@@ -91,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0239-sliding-window-maximum) |
+## Stack
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0946-validate-stack-sequences) |
+## Simulation
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
