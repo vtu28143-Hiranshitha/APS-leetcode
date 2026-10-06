@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0239-sliding-window-maximum](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0622-design-circular-queue) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
@@ -135,4 +137,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
