@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0867-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0946-validate-stack-sequences](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0946-validate-stack-sequences) |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1314-matrix-block-sum](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1314-matrix-block-sum) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
