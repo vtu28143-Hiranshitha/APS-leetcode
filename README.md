@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0459-repeated-substring-pattern) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0735-asteroid-collision) |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0946-validate-stack-sequences) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
