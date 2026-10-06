@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0796-rotate-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0946-validate-stack-sequences) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Simulation
 |  |
 | ------- |
