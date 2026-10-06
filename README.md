@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0239-sliding-window-maximum](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0239-sliding-window-maximum) |
+| [0496-next-greater-element-i](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0739-daily-temperatures) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0496-next-greater-element-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0901-online-stock-span) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
