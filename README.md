@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0735-asteroid-collision) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0946-validate-stack-sequences](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0946-validate-stack-sequences) |
+| [1314-matrix-block-sum](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1314-matrix-block-sum) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Linked List
@@ -160,5 +161,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1314-matrix-block-sum](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1314-matrix-block-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [1314-matrix-block-sum](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
