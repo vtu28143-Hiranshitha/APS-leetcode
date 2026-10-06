@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0867-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0946-validate-stack-sequences](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0946-validate-stack-sequences) |
 | [1314-matrix-block-sum](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1314-matrix-block-sum) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0946-validate-stack-sequences) |
 ## Bracket Sequences
 |  |
@@ -166,5 +168,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0867-transpose-matrix) |
 | [1314-matrix-block-sum](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
