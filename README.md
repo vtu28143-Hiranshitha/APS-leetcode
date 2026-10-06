@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0946-validate-stack-sequences) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Linked List
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
 | ------- |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
