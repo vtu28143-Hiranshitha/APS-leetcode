@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1314-matrix-block-sum](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1314-matrix-block-sum) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Linked List
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1314-matrix-block-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Matrix
 |  |
