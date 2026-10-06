@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0622-design-circular-queue](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0622-design-circular-queue) |
 ## Design
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vtu28143-Hiranshitha/APS-leetcode/tree/master/0496-next-greater-element-i) |
 ## Sliding Window
